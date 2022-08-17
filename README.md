@@ -1,4 +1,4 @@
-# CosmosEcosystem
+# What about the Cosmos Ecosystem?
 Popularizing the Cosmos Ecosystem (Cosmos, Osmosis, Juno, etc)
 
 I do weekly streams about the Cosmos Ecosystem. 
